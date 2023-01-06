@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Web Developer.
+- 👋 Hi, I’m a Front-End Developer.
 
 - 📫 How to reach me through my email: gamedevnoob95@gmail.com. or message me here.
 
