@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Learning
 
-- 📫 How to reach me through my email: gamedevnoob95@gmail.com. or message me here.
+
 
 <!---
 Bonkers1/Bonkers1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
